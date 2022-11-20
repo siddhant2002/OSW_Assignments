@@ -9,6 +9,7 @@ int main()
     d=n/12;
     l=n%12;
     printf("Your number of eggs is %d gross, %d dozen, and %d.\n", g, d, l);
+    return 0;
 }
 
 
