@@ -12,6 +12,7 @@ int main()
     scanf("%f",&hw);
     float p=(yl*yw)-(hl*hw);
     printf("The time required to cut the grass is %.2f",(p/2));
+    return 0;
 }
 
 Output 
