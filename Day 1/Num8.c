@@ -12,7 +12,6 @@ int main()
     return 0;
 }
 
-
 Output
 Enter number of eggs
 1340
