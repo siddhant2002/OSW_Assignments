@@ -1,10 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    int i,j,k,sp;
     for(int i=0;i<=6;i++)
     {
-        for(j='A';j<='G'-i;j++)
+        for(int j='A';j<='G'-i;j++)
         {
             printf("%c",j);
         }
