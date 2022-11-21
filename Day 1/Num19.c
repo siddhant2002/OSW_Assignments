@@ -7,11 +7,11 @@ int main()
         {
             printf("%c",j);
         }
-        for (j=1;j<=i*2-1;j++)
+        for (int j=1;j<=i*2-1;j++)
         {
             printf(" ");
         }
-        for (j='G'-i;j>='A';j--)
+        for (int j='G'-i;j>='A';j--)
         {
             if (j==71)
             {
