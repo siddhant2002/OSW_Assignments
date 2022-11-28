@@ -1,10 +1,10 @@
 Reference                   Where legal                   Data Type                   Value
 valp                            sub                        double*               pointer to color-shaded cell
-&many
-code
-&code
-countp
-*countp
-*valp
-letp
-&x
+&many                           main                       
+code                            main                        char
+&code                           main
+countp                          sub                         int*
+*countp                         sub
+*valp                           sub
+letp                            sub                          
+&x                              main
