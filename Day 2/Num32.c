@@ -28,7 +28,7 @@ void sort(int a[], int n)
         {
             if(a[j]>a[j+1])
             {
-                int d=d[j];
+                int d=a[j];
                 a[j]=a[j+1];
                 a[j+1]=d;
             }
