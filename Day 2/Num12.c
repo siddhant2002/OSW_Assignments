@@ -20,6 +20,6 @@ int main()
 Output
 Enter a number
 23
-The value of a is 23
-The value of a is 23
-The value of a is 23
+The value of a is 29
+The value of a is -16
+The value of a is -4
