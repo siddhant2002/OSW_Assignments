@@ -6,14 +6,14 @@ int main()
     int n;
     printf("Enter the size of the array\n");
     scanf("%d",&n);
-    int a[n];
-    int s=0;
+    float a[n];
+    float s=0;
     for(int i=0;i<n;i++)
     {
-        scanf("%d",&a[i]);
+        scanf("%f",&a[i]);
         s+=a[i];
     }
-    printf("The mean is %d\n",s/n);
+    printf("The mean is %f\n",s/n);
     s/=n;
     float p=0;
     for(int i=0;i<n;i++)
