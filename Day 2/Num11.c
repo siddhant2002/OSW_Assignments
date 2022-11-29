@@ -8,7 +8,7 @@ int main()
     int *p,*p1;
     p=&a;
     p1=&b;
-    if(p>p1)
+    if(*p>*p1)
     {
         printf("The largest number is %d\n",*p);
     }
