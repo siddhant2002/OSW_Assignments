@@ -1,0 +1,1 @@
+An equivalent statement for the given case is f(arname+2)
